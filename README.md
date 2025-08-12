@@ -26,13 +26,13 @@ Implements a clean architecture with separated layers:
 ---
 
 ## 📂 Project Structure
-MyCarSharingApp/
-│
-├── MyCarSharingApp.Domain/ # Entities (Car, Rental, User)
-├── MyCarSharingApp.Application/ # Services, Interfaces, DTOs
-├── MyCarSharingApp.Infrastructure/ # EF Core, PostgreSQL, Repositories
-├── MyCarSharingApp.API/ # Controllers, Startup
-└── MyCarSharingApp.Tests/ # Unit tests (xUnit + Moq)
+                    MyCarSharingApp/
+                    │
+                    ├── MyCarSharingApp.Domain/ # Entities (Car, Rental, User)
+                    ├── MyCarSharingApp.Application/ # Services, Interfaces, DTOs
+                    ├── MyCarSharingApp.Infrastructure/ # EF Core, PostgreSQL, Repositories
+                    ├── MyCarSharingApp.API/ # Controllers, Startup
+                    └── MyCarSharingApp.Tests/ # Unit tests (xUnit + Moq)
 
 ---
 
@@ -47,7 +47,7 @@ MyCarSharingApp/
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/MyCarSharingApp.git
+git clone https://github.com/loranazarenko/MyCarSharingApp.git
 cd MyCarSharingApp
 Configure the database
 
