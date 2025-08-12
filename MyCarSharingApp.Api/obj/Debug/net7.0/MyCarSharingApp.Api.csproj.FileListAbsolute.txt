@@ -1,0 +1,7 @@
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\MyCarSharingApp.Api.csproj.AssemblyReference.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\MyCarSharingApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\MyCarSharingApp.Api.AssemblyInfoInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\MyCarSharingApp.Api.AssemblyInfo.cs
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\MyCarSharingApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Api\obj\Debug\net7.0\MyCarSharingApp.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\bin\Debug\net8.0\MyCarSharingApp.Application.deps.json
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\bin\Debug\net8.0\MyCarSharingApp.Application.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\bin\Debug\net8.0\MyCarSharingApp.Application.pdb
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\bin\Debug\net8.0\MyCarSharingApp.Domain.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\bin\Debug\net8.0\MyCarSharingApp.Domain.pdb
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.csproj.AssemblyReference.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.AssemblyInfoInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.AssemblyInfo.cs
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSha.1F9F7C76.Up2Date
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\refint\MyCarSharingApp.Application.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\MyCarSharingApp.Application.pdb
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Application\obj\Debug\net8.0\ref\MyCarSharingApp.Application.dll

@@ -1,0 +1,5 @@
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Infrastructure\obj\Debug\net7.0\MyCarSharingApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Infrastructure\obj\Debug\net7.0\MyCarSharingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Infrastructure\obj\Debug\net7.0\MyCarSharingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Infrastructure\obj\Debug\net7.0\MyCarSharingApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Infrastructure\obj\Debug\net7.0\MyCarSharingApp.Infrastructure.csproj.CoreCompileInputs.cache

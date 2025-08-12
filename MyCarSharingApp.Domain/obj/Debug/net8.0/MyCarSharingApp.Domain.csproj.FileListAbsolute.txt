@@ -1,0 +1,12 @@
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\bin\Debug\net8.0\MyCarSharingApp.Domain.deps.json
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\bin\Debug\net8.0\MyCarSharingApp.Domain.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\bin\Debug\net8.0\MyCarSharingApp.Domain.pdb
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.AssemblyInfo.cs
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\refint\MyCarSharingApp.Domain.dll
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\MyCarSharingApp.Domain.pdb
+C:\Users\Larysa\Desktop\Разное\Работа собесы\HYS обучение\Проекты\MyCarSharingApp_Complete2\MyCarSharingApp.Domain\obj\Debug\net8.0\ref\MyCarSharingApp.Domain.dll
